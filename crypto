@@ -33,6 +33,10 @@ DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,yingwangtech.cloud
+DOMAIN-SUFFIX,sintral.me
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,bn-ugc.com
+DOMAIN-SUFFIX,binancemerge.com
 
 # > Bitget
 DOMAIN-SUFFIX,bitget.com
@@ -54,5 +58,5 @@ DOMAIN-SUFFIX,wsot2022.com
 
 # > OKX
 DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN,okx.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,okx-dns
