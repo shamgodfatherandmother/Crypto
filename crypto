@@ -1,4 +1,5 @@
-# crypto
+crypto
+
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,backpack.exchange
 DOMAIN-SUFFIX,bitcointalk.org
@@ -21,7 +22,8 @@ DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,upbit.com
 
-# > Binance
+> Binance
+
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.org
@@ -41,11 +43,24 @@ DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.cc
 
-# > Bitget
+> Binance observed IP
+
+IP-CIDR,13.192.72.8/32,no-resolve
+IP-CIDR,18.180.191.237/32,no-resolve
+IP-CIDR,52.198.187.114/32,no-resolve
+IP-CIDR,54.65.161.3/32,no-resolve
+IP-CIDR,57.180.143.38/32,no-resolve
+IP-CIDR,43.145.17.249/32,no-resolve
+IP-CIDR,106.53.165.44/32,no-resolve
+IP-CIDR,114.132.46.122/32,no-resolve
+
+> Bitget
+
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.site
 
-# > Bybit
+> Bybit
+
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,bybdc6.com
@@ -59,7 +74,8 @@ DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
 DOMAIN-SUFFIX,wsot2022.com
 
-# > OKX
+> OKX
+
 DOMAIN-SUFFIX,okx.com
 DOMAIN,okx.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,okx-dns
