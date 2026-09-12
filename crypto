@@ -52,6 +52,13 @@ IP-CIDR,57.180.143.38/32,no-resolve
 IP-CIDR,43.145.17.249/32,no-resolve
 IP-CIDR,106.53.165.44/32,no-resolve
 IP-CIDR,114.132.46.122/32,no-resolve
+# > Binance observed IP 2026-09-12
+IP-CIDR,134.175.47.238/32,no-resolve
+IP-CIDR,43.139.115.210/32,no-resolve
+IP-CIDR,111.230.168.16/32,no-resolve
+IP-CIDR,106.55.239.211/32,no-resolve
+IP-CIDR,81.71.41.114/32,no-resolve
+IP-CIDR,182.254.194.76/32,no-resolve
 # > Bitget
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.site
